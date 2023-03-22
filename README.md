@@ -186,4 +186,8 @@ I would like to thank all my cooding partners and reviewers
 This project is [MIT](./LICENSE) licensed.
 https://github.com/kirube1992/Hello-Microverse/compare/main...add-license-1?quick_pull=1
 
+<<<<<<< HEAD
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+=======
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+>>>>>>> 333ddba05282b20d1fcee1b02dee7d547e031e94
