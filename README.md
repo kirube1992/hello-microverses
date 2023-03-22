@@ -1,5 +1,14 @@
 <a name="readme-top"></a>
+<div align="center">
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
 
+  <h3><b>Microverse README Template</b></h3>
+
+</div>
+
+<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -7,50 +16,31 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
+
+<!-- PROJECT DESCRIPTION -->
 
 # 📖 [hello microverses] <a name="about-project"></a>
 
-**[hello microverses]** is a simple html css file
+**[hello microverses]** is a static website which desplay the hello microverses
 
 ## 🛠 Built With <a name="built-with"></a>
 
-### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
-
+<!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
 > Describe between 1-3 key features of the application.
 
-- **[uses ES6]**
-- **[css]**
+- [ ] **[ES6]**
+- [ ] **[linters]**
+- [ ] **[codeflowes]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- GETTING STARTED -->
-
-## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
-
 
 <!-- AUTHORS -->
 
@@ -58,15 +48,31 @@
 
 > Mention all of the collaborators of this project.
 
-👤 **kirubel**
+👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/kirub1992)
-- Twitter: [@twitterhandle](https://twitter.com/kiru92)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/kirubel)
+- GitHub: [@githubhandle](https://github.com/kirube1992)
+- Twitter: [@twitterhandle](https://twitter.com/kirubel34)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/kirubel92)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank microverse
+I would like to thank all my coding partners and code rivewer
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
