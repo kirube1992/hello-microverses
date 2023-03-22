@@ -44,7 +44,7 @@
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-  <summary>csr</summary>
+  <summary>css</summary>
   <ul>
     <li><a href="https://mdncss.com/">Css</a></li>
   </ul>
@@ -64,15 +64,6 @@
 - **[use linter]**
 - **[semantic html]**
 - **[proper order]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-https://github.com/kirube1992/hello-microverses/edit/main/README.md
-- [Live Demo Link](https://google.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -124,9 +115,9 @@ your broether
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/kirube1992)
-- Twitter: [@twitterhandle](https://twitter.com/kirubel08)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/kirubel23)
+- GitHub: [@kirube1992](https://github.com/kirube1992)
+- Twitter: [@kirubel](https://twitter.com/kirubel08)
+- LinkedIn: [kirubel92](https://linkedin.com/in/kirubel23)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -186,8 +177,3 @@ I would like to thank all my cooding partners and reviewers
 This project is [MIT](./LICENSE) licensed.
 https://github.com/kirube1992/Hello-Microverse/compare/main...add-license-1?quick_pull=1
 
-<<<<<<< HEAD
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-=======
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
->>>>>>> 333ddba05282b20d1fcee1b02dee7d547e031e94
